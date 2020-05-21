@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sgojgini85_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=sgojgini85_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
